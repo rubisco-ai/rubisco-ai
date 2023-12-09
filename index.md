@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Reforestation to tackle climate change'
+landing-title: 'Forest restoration to tackle climate change'
 description: null
 image: null
 author: null
