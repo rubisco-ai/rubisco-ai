@@ -1,3 +1,16 @@
+# Developing the site locally
+
+1. Ensure [git](https://git-scm.com/) is installed
+1. Ensure [ruby](https://www.ruby-lang.org/en/downloads/) is installed (ideally v2.7.4 -- with the help of a [ruby version manager](https://github.com/rbenv/rbenv)!)
+1. Ensure [bundler](https://bundler.io/) is installed for downloading Ruby dependencies (run `gem install bundler` if not)
+1. Clone this repository and `cd` into it (e.g. `git clone git@github.com:rubisco-ai/rubisco-ai.git && cd rubisco_ai`)
+1. Run `git submodule update --init --recursive` to get additional files stored in a Git submodule
+1. Run `bundle install` to install Ruby library dependencies
+1. Run `bundle exec jekyll serve` (or just `./serve`) to build and locally serve the site, wait ~20 seconds
+1. Visit `localhost:4000` in your web browser to test out the site locally!
+1. Make any changes to files you want to test, then wait for the site to rebuild (should take ~10 seconds for each change)
+1. If you're satisfied with your changes, commit them to a feature branch (e.g. `git checkout -b my-branch`, then `git add -A`, then `git commit -m "meaningful commit message"`), and push them to Github (`git push origin my-branch`)
+
 # Forty - Jekyll Theme
 
 A Jekyll version of the "Forty" theme by [HTML5 UP](https://html5up.net/).  
