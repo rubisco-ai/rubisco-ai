@@ -24,7 +24,7 @@ permalink: /team/
 
 <div class="row">
 <div class="6u 12u$(small)">
-<div class="circular_image"> <img class="center" width="250" src="{% link assets/images/team/etienne_laliberte_200.jpg %}" /> </div>
+<div class="circular_image"> <img class="center" width="250" src="{% link assets/images/team/etienne_laliberte_200.jpg %}" alt="" /> </div>
 <br>
 
 <div class="align-center">
@@ -49,7 +49,7 @@ Vegetation remote sensing
 
 
 <div class="6u 12u$(small)">
-<div class="circular_image"> <img class="center" width="250" src="{% link assets/images/team/arthur_ouaknine_600.jpg %}" /> </div>
+<div class="circular_image"> <img class="center" width="250" src="{% link assets/images/team/arthur_ouaknine_600.jpg %}" alt="" /> </div>
 <br>
 
 <div class="align-center">
