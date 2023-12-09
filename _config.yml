@@ -5,7 +5,7 @@ email: contact@rubisco.ai
 # description: Automatic monitoring of reforestation carbon projects
 description: Accelerate reforestation carbon projects with automatic monitoring
 # baseurl: "rubisco_ai" # the subpath of your site, e.g. /blog
-url: "https://rubisco-ai.github.io/" # the base hostname & protocol for your site
+url: https://rubisco-ai.github.io # the base hostname & protocol for your site
 author:
 street_address: 1234 Somewhere Road
 city: Montréal
