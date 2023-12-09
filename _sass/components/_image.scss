@@ -63,4 +63,17 @@ img {
 				margin: (_size(element-margin) * 0.75) 0;
 			}
 		}
-	}
+
+}
+
+.circular_image img{
+    position: relative;
+    overflow: hidden;
+    border-radius: 50%;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
