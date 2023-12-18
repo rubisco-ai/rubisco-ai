@@ -7,12 +7,12 @@ description: Accelerate reforestation carbon projects with automatic monitoring
 # baseurl: "rubisco_ai" # the subpath of your site, e.g. /blog
 url: https://rubisco-ai.github.io # the base hostname & protocol for your site
 author:
-street_address: 1234 Somewhere Road
+# street_address: 1234 Somewhere Road
 city: Montréal
 state: Québec
 zip_code: 
 country: Canada
-phone: (438) 525-2835
+phone: +1 (438) 525-2835
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
