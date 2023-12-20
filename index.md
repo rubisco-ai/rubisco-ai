@@ -1,7 +1,8 @@
 ---
 layout: home
 title: Home
-landing-title: 'Forest restoration to tackle climate change'
+# landing-title: 'Forest restoration to tackle climate change'
+landing-title: 'High-resolution forest monitoring'
 description: null
 image: null
 author: null

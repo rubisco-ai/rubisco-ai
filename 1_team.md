@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Our team
+title: Team
 image: assets/images/team/overview.jpg
 nav-menu: true
 permalink: /team/
@@ -13,7 +13,7 @@ permalink: /team/
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>Our team</h1>
+			<h1>Team</h1>
 		</header>
 
 
@@ -24,7 +24,7 @@ permalink: /team/
 
 <div class="row">
 <div class="6u 12u$(small)">
-<div class="circular_image"> <img class="center" width="250" src="{% link assets/images/team/etienne_laliberte_200.jpg %}" alt="" /> </div>
+<div class="circular_image"> <img class="center" width="250" src="{% link assets/images/team/etienne_laliberte_4000.jpg %}" alt="" /> </div>
 <br>
 
 <div class="align-center">
