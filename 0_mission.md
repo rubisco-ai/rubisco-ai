@@ -17,6 +17,9 @@ permalink: /mission/
 		</header>
 
 <p align="justify">
-Our mission is to accelerate reforestation to tackle climate change. We do so by providing automatic monitoring of reforestation carbon projects. Specifically, we provide AI and computer vision tools to translate drone imagery to tree-level carbon and biodiversity data. We believe that by providing independent, rigorous, transparent and efficient automatic monitoring of reforestation projects, we are building trust in reforestation carbon projects.
+Our mission is to allow anyone to easily map all trees in their forests, measure the carbon they contain, and determine their species.  <br>
 
+We do so by providing artificial intelligence and computer vision tools that translate drone imagery into accurate tree-level carbon and biodiversity metrics.  <br>
+
+We believe that better monitoring of forests can help to improve their restoration, conservation, and management, which is important in our fight against climate change and biodiversity loss.  <br>
 </p>
