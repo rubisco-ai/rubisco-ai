@@ -13,9 +13,6 @@ permalink: /demo/
 <!-- One -->
 <section id="one">
 	<div class="inner">
-		<header class="major">
-			<h1>Our proof of concept</h1>
-		</header>
 
 <p>
 In 2023, we partnered with the <a href="https://lefo.ca/?lang=en">Plant Functional Ecology Laboratory</a> (LEFO) and <a href="https://carboneboreal.uqac.ca/en/home/">Carbone Boréal</a> to develop a proof of concept.

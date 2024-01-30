@@ -45,7 +45,7 @@ Vegetation remote sensing
 </ul>
 
 <p align="justify">
-Etienne Laliberté is a Full Professor in the Department of Biological Sciences of the Université de Montréal, a member of the Institut de recherche en biologie végétale, and holds the Canada Research Chair in Plant Functional Biodiversity. He also heads the Canadian Airborne Biodiversity Observatory (CABO). His current research focuses on the development of new approaches for vegetation monitoring (plant biodiversity and carbon) based on high-resolution remote sensing using drones and computer vision. He is particularly interested in applications of this technology that can help mitigate biodiversity loss and climate change, and that can have rapid and widespread environmental impact.
+Etienne Laliberté is a Full Professor in the Department of Biological Sciences of the Université de Montréal, a member of the Institut de recherche en biologie végétale, and holds the Canada Research Chair in Plant Functional Biodiversity. He also heads the Canadian Airborne Biodiversity Observatory (CABO). His current research focuses on the development of new approaches for vegetation monitoring (plant biodiversity and carbon) based on high-resolution remote sensing using drones and computer vision.
 </p>
 
 </div>

@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Map the carbon stored in all your trees.'
+landing-title: 'Map the carbon stored in your trees.'
 description: null
 image: null
 author: null
