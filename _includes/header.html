@@ -3,7 +3,15 @@
 
 <!-- Header -->
 <header id="header"{% if page.layout == "landing" %} class="alt style2"{% endif %}{% if page.layout == "home" %} class="alt"{% endif %}>
-	<a href="{{ "" | absolute_url }}/" class="logo"><strong>{{ site.title }}</strong> <span>{{ site.subtitle }}</span></a>
+  <!-- <a href="{{ "" | absolute_url }}/" class="logo"><strong>{{ site.title }}</strong> <span>{{ site.subtitle }}</span></a> -->
+  <div class="logo">
+    <a href="{{ "" | absolute_url }}/" class="logo">
+      <strong>
+	<img src="/assets/images/rubisco_logo_text.png" width="200">
+      </strong>
+    </a>
+  </div>
+    
 	<nav>
 		<a href="#menu">Menu</a>
 	</nav>
@@ -23,8 +31,10 @@
 		    {% endif %}
 		{% endfor %}
 	</ul>
+	<!--
 	<ul class="actions vertical">
 		<li><a href="#" class="button special fit">Get Started</a></li>
 		<li><a href="#" class="button fit">Log In</a></li>
 	</ul>
+	-->
 </nav>

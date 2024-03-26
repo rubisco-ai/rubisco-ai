@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Proof of concept
 description: null
 image: assets/images/demo.png
@@ -13,6 +13,14 @@ permalink: /demo/
 <!-- One -->
 <section id="one">
 	<div class="inner">
+		<header class="major">
+			<h1>Proof of concept</h1>
+		</header>
+
+
+<br>
+<br>
+
 
 <p>
 In 2023, we partnered with the <a href="https://lefo.ca/?lang=en">Plant Functional Ecology Laboratory</a> (LEFO) and <a href="https://carboneboreal.uqac.ca/en/home/">Carbone Boréal</a> to develop a proof of concept.
@@ -20,7 +28,7 @@ In 2023, we partnered with the <a href="https://lefo.ca/?lang=en">Plant Function
 
 
 <div style="text-align: center;">
-<iframe width="1000" height="800" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"
+<iframe width="1600" height="800" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"
 src="https://lefo.maps.arcgis.com/apps/instant/basic/index.html?appid=9fa843c7be0a4b19862bb042698f8097"></iframe>
 </div>
 
