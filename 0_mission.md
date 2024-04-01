@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Mission
-image: assets/images/mission.jpg
+image: ./assets/images/mission.jpg
 nav-menu: true
 permalink: /mission/
 ---

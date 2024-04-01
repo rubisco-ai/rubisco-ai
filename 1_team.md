@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Team
-image: assets/images/team/overview.jpg
+image: ./assets/images/team/overview.jpg
 nav-menu: true
 permalink: /team/
 ---

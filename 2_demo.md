@@ -2,7 +2,7 @@
 layout: page
 title: Proof of concept
 description: null
-image: assets/images/demo.png
+image: ./assets/images/demo.png
 nav-menu: true
 permalink: /demo/
 ---
