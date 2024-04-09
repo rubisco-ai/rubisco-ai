@@ -18,7 +18,7 @@
 			width: -webkit-max-content;
 			width: -ms-max-content;
 			width: max-content;
-      max-width: 100%;
+			max-width: 100%;
 			margin-bottom: _size(element-margin);
 
 			> :first-child {
@@ -33,6 +33,19 @@
 					    margin: 0.325em 0 0.5em 0;
 					    width: 100%;
 				  }
+
+			}
+
+			> h1-front-page:first-child{
+			    &:after {
+				background-color: _palette(bg); // Override color here
+			    }
+			}
+
+			> h3-front-page:first-child{
+			    &:after {
+				background-color: _palette(bg); // Override color here
+			    }
 			}
 
 			> p {
@@ -55,6 +68,7 @@
 						max-width: 100% !important;
 					}
 				}
+				
 			}
 		}
 

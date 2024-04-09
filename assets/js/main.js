@@ -247,7 +247,7 @@
 			});
 
 		// Menu.
-			var $menu = $('#menu'),
+	    var $menu = $('#menu'),
 				$menuInner;
 
 			$menu.wrapInner('<div class="inner"></div>');

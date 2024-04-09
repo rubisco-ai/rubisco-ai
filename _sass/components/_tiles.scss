@@ -45,12 +45,12 @@
 				z-index: 3;
 			}
 
-			h3 {
-				font-size: 1.75em;
-
+			h3-front-page {
+			    font-size: 1.75em;
+			    // color: _palette(bg);
 				a {
 					&:hover {
-						color: inherit !important;
+					    color: inherit !important;
 					}
 				}
 			}
@@ -78,6 +78,8 @@
 				z-index: 2;
 			}
 
+			
+			
 			&:after {
 				background-color: transparentize(_palette(bg), 0.9);
 				content: '';
@@ -155,7 +157,7 @@
 
 		@include breakpoint(medium) {
 			article {
-				width: 50% !important;
+			    width: 50% !important;
 			}
 		}
 
@@ -166,8 +168,8 @@
 				max-height: none;
 				min-height: 0;
 
-				h3 {
-					font-size: 1.5em;
+				h3-front-page {
+				    font-size: 1.5em;
 				}
 			}
 		}
