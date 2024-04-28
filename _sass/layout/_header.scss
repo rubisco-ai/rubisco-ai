@@ -33,11 +33,18 @@
 			border: 0;
 			display: inline-block;
 			font-size: 1em;
-			height: inherit;
+			/* height: inherit;*/
+			height: 100%;
 			line-height: inherit;
 			/* padding: 0 1.5em; */
 			padding: 0.15em;
 			margin: 0em;
+
+			img {
+			    max-height: 1.8em;   /* Adjust logo image height relative to header */
+			    width: auto;       /* Maintain aspect ratio */
+			    max-width: 100%;   /* Prevent logo from overflowing */
+			}
 
 			strong {
 				@include vendor('transition', (
@@ -231,7 +238,11 @@
 			line-height: 2.75em;
 
 			.logo {
-				padding: 0 1em;
+			    padding: 0 0.5em;
+			    img {
+				max-height: 70%; /* Slightly smaller logo on small screens */
+			    }
+
 			}
 
 			nav {
@@ -262,7 +273,14 @@
 		}
 
 		@include breakpoint(xsmall) {
-			.logo {
+		    .logo {
+			padding: 0; /* Remove padding on very small screens */
+			font-size: 1.0em;
+			display: inline-block;
+			img {
+			    max-height: 60%; /* Further reduce the logo size */
+			}
+		    
 				span {
 					display: none;
 				}
