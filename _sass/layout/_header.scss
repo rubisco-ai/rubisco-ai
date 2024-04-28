@@ -33,17 +33,17 @@
 			border: 0;
 			display: inline-block;
 			font-size: 1em;
-			/* height: inherit;*/
-			height: 100%;
+			height: inherit;
 			line-height: inherit;
 			/* padding: 0 1.5em; */
 			padding: 0.15em;
 			margin: 0em;
 
 			img {
-			    max-height: 1.8em;   /* Adjust logo image height relative to header */
-			    width: auto;       /* Maintain aspect ratio */
-			    max-width: 100%;   /* Prevent logo from overflowing */
+			    max-height: 50px;
+			    max-width: 170px;
+			    height: auto;
+			    width: auto;
 			}
 
 			strong {
@@ -238,9 +238,10 @@
 			line-height: 2.75em;
 
 			.logo {
-			    padding: 0 0.5em;
+			    padding: 0 1em;
 			    img {
-				max-height: 70%; /* Slightly smaller logo on small screens */
+				max-height: 40px;  /* Slightly smaller on small screens */
+				max-width: 160px;  /* Smaller width on small screens */
 			    }
 
 			}
@@ -274,11 +275,9 @@
 
 		@include breakpoint(xsmall) {
 		    .logo {
-			padding: 0; /* Remove padding on very small screens */
-			font-size: 1.0em;
-			display: inline-block;
 			img {
-			    max-height: 60%; /* Further reduce the logo size */
+			    max-height: 40px;  /* Even smaller on very small screens */
+			    max-width: 140px;  /* Reduce width further on very small screens */
 			}
 		    
 				span {
